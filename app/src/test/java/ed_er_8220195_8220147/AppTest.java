@@ -4,6 +4,9 @@
 package ed_er_8220195_8220147;
 
 import org.junit.jupiter.api.Test;
+
+import App.App;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class AppTest {
